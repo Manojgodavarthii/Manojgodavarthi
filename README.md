@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manojgodavarthii/Manojgodavarthii/main/profile-banner.png" alt="Manoj Godavarthi's GitHub Profile Banner" width="100%"> </p>
 <h1 align="center">
   Hi there! 👋 I'm Manoj Godavarthi!
 </h1>
