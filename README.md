@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manojgodavarthii&label=Profile%20Views&color=0e75b6&style=flat" alt="Manojgodavarthii's Profile Views" />
   &nbsp;
+  <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat&labelColor=555" alt="Open to Work Badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Currently%20Learning-AI%2FML%20&%20WebDev-blueviolet?style=flat&labelColor=555" alt="Currently Learning Badge"/>
@@ -67,13 +70,13 @@ Here are a few projects that highlight my skills and interests:
 ### 📊 My GitHub Contributions & Insights:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manojgodavarthii&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=fe428e&icon_color=a9fef7&text_color=FFFFFF&bg_color=1a1a1a&border_radius=5" alt="Manojgodavarthii GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manojgodavarthii&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=fe428e&icon_color=a9fef7&text_color=FFFFFF&bg_color=1a1a1a&border_radius=5" alt="Manojgodavarthii GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojgodavarthii&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=1a1a1a&stroke=rgba(0,0,0,0)&currstreak_color=white&ring_color=fe428e&fire_color=a9fef7&side_lines=rgba(0,0,0,0)&dates=FFFFFF&label=FFFFFF&empty_rows=FFFFFF&empty_cells=FFFFFF" alt="Manojgodavarthii GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgodavarthii&layout=compact&theme=radical&hide_border=true&title_color=fe428e&icon_color=a9fef7&text_color=FFFFFF&bg_color=1a1a1a&border_radius=5" alt="Manojgodavarthii Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojgodavarthii&layout=compact&theme=dark&hide_border=true&title_color=fe428e&icon_color=a9fef7&text_color=FFFFFF&bg_color=1a1a1a&border_radius=5" alt="Manojgodavarthii Top Languages" />
 </p>
 
 ---
