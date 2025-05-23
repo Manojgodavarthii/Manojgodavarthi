@@ -42,30 +42,6 @@ Welcome to my corner of GitHub! I'm an **aspiring Full Stack Web Developer** wit
 
 ---
 
-### 🌟 My Featured Projects:
-
-Here are a few projects that highlight my skills and interests:
-
-#### 1. Project Title One 💡
-* **Description:** A brief, one-sentence summary of what this project does and why it's cool.
-* **Technologies Used:** `HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `MongoDB`
-* **Repository:** [Link to Project One Repo](https://github.com/Manojgodavarthii/your-project-one-repo) * **Live Demo (Optional):** [Link to Live Demo (if applicable)](https://your-project-one-demo.com) #### 2. Project Title Two 🤖
-* **Description:** A brief, one-sentence summary of what this ML/AI project does.
-* **Technologies Used:** `Python` | `TensorFlow` | `Keras` | `Jupyter Notebook`
-* **Repository:** [Link to Project Two Repo](https://github.com/Manojgodavarthii/your-project-two-repo) * **Dataset/Model (Optional):** [Link to Dataset/Model (if applicable)](https://your-dataset-link.com) #### 3. Project Title Three 🌐
-* **Description:** Another exciting project, maybe a full-stack application or a unique web tool.
-* **Technologies Used:** `HTML` | `CSS` | `JavaScript` | `Bootstrap` | `Express` | `MySQL`
-* **Repository:** [Link to Project Three Repo](https://github.com/Manojgodavarthii/your-project-three-repo) * **Live Demo (Optional):** [Link to Live Demo (if applicable)](https://your-project-three-demo.com) ---
-
-### 🎓 Education & Learning Journey:
-
-* **Bachelor of Technology in [Your Degree Name]** * [Your University Name], [Your City], [Your State/Country] * Expected Graduation: [Month, Year] * Relevant Coursework: Data Structures & Algorithms, Web Development, Machine Learning, Database Management.
-
-* **Online Courses & Certifications:**
-    * [Course Name], [Platform Name] (e.g., "Full Stack Web Development," Coursera) * [Certification Name], [Issuing Body] (e.g., "AWS Cloud Practitioner," AWS)
-    * [Another Course/Certification]
-
----
 
 ### 📊 My GitHub Contributions & Insights:
 
